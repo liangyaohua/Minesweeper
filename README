@@ -1,0 +1,2 @@
+COMMANDE: -Wall -O2 -o Minesweeper Minesweeper.c -lncurses
+
